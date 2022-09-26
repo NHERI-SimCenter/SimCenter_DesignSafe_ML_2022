@@ -68,9 +68,6 @@ Day 3: `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCent
      <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day3/exercise2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/exercises/day3/exercise2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day3/exercise2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
-
-
-
 Day 4: `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/presentations/day4/ImageSegmentation.pdf>`_
 =======================
 
@@ -85,7 +82,7 @@ Day 4: `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenter_Desi
 
   .. raw:: html
 
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day2/RoofDetection_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
@@ -93,4 +90,4 @@ Day 4: `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenter_Desi
 
   .. raw:: html
 
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day2/CrackSegmentation_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
