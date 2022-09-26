@@ -13,7 +13,10 @@ Welcome to this Training Workshop on the application of ML to natural hazards en
 
 Day 1: ML in Earthquake Engineering: Opportunities and Challenges
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+  * In-class presentations
+     * Introduction: `Slides <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day1/ML_WorkshopIntro.pdf>`_
+     * Machine Learning in Infrastructure Risk and Resilience Assessment - A Constructive Critique: `Slides <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day1/MachineLearningInInfrastructureRiskAndResilienceAssessmentBurton.pdf>`_     
+     
 Day 2: Explainable AI in Earthquake Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
