@@ -33,5 +33,3 @@ ith no or little Python experience should review the Python quick start material
       repository on `GitHub <https://github.com>`_
 
    #. You will be using `Jupyter Notebooks on DesignSafe <https://www.designsafe-ci.org/rw/workspace/#!/Jupyter::Analysis>`_ to perform the exercises.
-
-   
