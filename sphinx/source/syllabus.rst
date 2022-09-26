@@ -55,3 +55,8 @@ Day 4: Semantic Segmentation
 
 Day 5: Inventory Generation with BRAILS
 ~~~~~~~~~~~~~~~~~~~~~~
+  * Pre-class content
+     * Coming soon
+     
+  * In-class Exercises
+     * Coming soon
