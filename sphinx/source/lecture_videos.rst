@@ -2,7 +2,7 @@
 Video Content
 **************
 
-Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
+Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
 ===========================================
    
   * Pre-class content
@@ -31,7 +31,7 @@ Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCen
             <p><iframe width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://youtube.com/embed/XM9R2H_Sw_I" ></iframe></p>
 
 
-Day 4 - `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/Semantic Segmentation.pdf>`_
+Day 4 - `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/presentations/day4/ImageSegmentation.pdf>`_
 ===========================================
 
   * Pre-class content
