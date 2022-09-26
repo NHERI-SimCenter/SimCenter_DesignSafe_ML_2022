@@ -4,20 +4,15 @@ Syllabus
 
 .. raw:: HTML
 
-	<p><font color=red> last updated: August 10, 2021 </font></p>
+	<p><font color=red> last updated: September 25, 2022 </font></p>
 
-Welcome to this Training Workshop on the application of ML to natural hazards engineering. This year's offering will be an online format. 
-A drawback of an online offering is the lack of interaction among the participants, so we encourage you to be active during the live sessions with questions. The SimCenter intends to create some of the community building - that might otherwise be achieved in-person - through discussion and invites you to join `Office Hours with the Development Team  <https://designsafe-ci.zoom.us/meeting/register/tJcpcOmvqjguGNcAkeFzFejGojhVBdd-Hp1Q>`_ to continue these discussions with other members of the Natural Hazards Engineering community.
+Welcome to this Training Workshop on the application of ML to natural hazards engineering. This year's offering will be in an online format. 
+A drawback of an online offering is the lack of interaction among the participants, so we encourage you to be active during the live sessions with questions.
 
-The bootcamp is organized as a series of pre-recorded video lectures and live online conferencing (Zoom). The lessons and videos are provided in the listing below "by day".  
+The training is organized as a series of pre-recorded video lectures and live online conferencing (Zoom). The lessons and videos are provided in the listing below "by day."   
 
 .. warning::
-	Videos must be watched before the online class sessions for the day.
-	
-	We will spend our live sessions mostly doing hands-on exercises 
-	("In-class Exercise" links below), questions, and discussion.  
-	Those exercises are only effective if you did your self-study 
-	assignment of watching the videos before we meet.
+	Videos must be watched before the online class sessions for days 3 through 5. On days 3 through 5, we will spend our live sessions mostly doing hands-on exercises ("In-class Exercise" links below), questions, and discussion. These exercises are only effective if you do your self-study assignment of watching the videos before we meet.
 
 .. warning::
     To run Exercise 4 on day 1, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
@@ -30,7 +25,7 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 
 * Day 4: Semantic Segmentation (Barbaros Cetiner, UC Berkeley)
 
-*  Day 5: Inventory Generation with BRAILS  (Barbaros Cetiner, UC Berkeley)
+* Day 5: Inventory Generation with BRAILS  (Barbaros Cetiner, UC Berkeley)
 
 
 * OLD Day 1 - `SimCenter Introduction <https://youtu.be/oUnOTA6qzCU>`_ (`PDF <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/SimCenterToolIntroAI.pdf>`_), Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
