@@ -1,4 +1,3 @@
-
 **********
 Notebooks
 **********
@@ -13,81 +12,82 @@ To learn more about these options, visit the :ref:`Tools` page.
 
 
 Day 3: `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
-=======================
+====================================
 
-.. 
-    * Content:
-    
-    *  .. raw:: html
+.. raw:: html
+	    
+   <ol>
+   
+     <li><b> 1. Hand-written digit classification with single-layer perceptron</b>
 
+       <ul>
+          <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day3/demo1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li>
+          <li><a href="https://colab.research.google.com/drive/1-MT63AZtztUOQ_Z4cWyVuqppHvqhMs8L"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a><br/><br/></li>
+       </ul>
+     </li>
 
+     <li> <b> 2. Hand-written digit classification with convolutional neural networks</b>
 
-* Hand-written digit classification with single-layer perceptron
+       <ul>
+          <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day3/demo2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a>
+          </li><li><a href="https://colab.research.google.com/drive/15LdpfszkkK55yf2jRlecOn9ZR6PbLmUg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a><br/><br/></li>
+      </ul>
+     </li>
 
-  .. raw:: html
+     <li><b>3. Hand-written digit classification with attention networks</b>
+        <ul>
+           <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day3/demo3.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li>
+           <li><a href="https://colab.research.google.com/drive/1nO8soKThc35CoxCqJx_XFeOk6xVJs9iC"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a><br/><br/></li>
+       </ul>
+    </li>
 
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day3/demo1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1-MT63AZtztUOQ_Z4cWyVuqppHvqhMs8L"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li></ul>
-
-
-
-* Hand-written digit classification with convolutional neural networks
-
-  .. raw:: html
-
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day3/demo2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/15LdpfszkkK55yf2jRlecOn9ZR6PbLmUg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li></ul>
-
-
-
-* Hand-written digit classification with attention networks
-
-  .. raw:: html
-
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day3/demo3.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1nO8soKThc35CoxCqJx_XFeOk6xVJs9iC"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li></ul>
-
-
-* Hand-written digit classification with transformer
-
-  .. raw:: html
-
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day3/demo4.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1k1tRJexLSwddt3TGttNdWqanT68Oa5mu"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li></ul>
+    <li> <b>4. Hand-written digit classification with transformer</b>
+      <ul>
+         <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day3/demo4.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li>
+         <li><a href="https://colab.research.google.com/drive/1k1tRJexLSwddt3TGttNdWqanT68Oa5mu"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a><br/><br/></li>
+       </ul>
+     </li>
 
 
+     <li> <b> 5. Hand-written digit classification with multi-layer perceptron</b>
+        <ul>
+          <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day3/exercise1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/exercises/day3/exercise1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li>
+          <li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day3/exercise1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a><br/><br/></li>
+        </ul>
+     </li>
 
-* Hand-written digit classification with multi-layer perceptron
+     <li> <b> 6. Roof classification with Transformation Learning</b>
+        <ul>
+           <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day3/exercise2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li>
+           <li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/exercises/day3/exercise2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day3/exercise2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a><br/><br/></li>
+       </ul>
+     </li>
+    </ol>
 
-  .. raw:: html
-
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day3/exercise1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/exercises/day3/exercise1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day3/exercise1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
-
-
-
-* Roof classification with Transformation Learning
-
-  .. raw:: html
-
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day3/exercise2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/exercises/day3/exercise2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day3/exercise2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
-
+    <p></p>
 
 Day 4: `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/presentations/day4/ImageSegmentation.pdf>`_
-=======================
-
-.. 
-    * Content:
-    
-    *  .. raw:: html
+=============================
 
 
 
-* Roof Detection through Semantic Segmentation
 
-  .. raw:: html
+.. raw:: html
+	    
+   <ol>
+    <li><b> 1. Roof Detection through Semantic Segmentation</b>
 
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+    <ul>
+     <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a>
+     </li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a><br/><br/></li>
+     </ul>
+   </li>
 
+   <li><b> Crack Segmentation</b>
 
-
-* Crack Segmentation
-
-  .. raw:: html
-
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+     <ul>
+     <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li>
+     <li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li>
+     </ul>
+     </li>
+     </ol>
