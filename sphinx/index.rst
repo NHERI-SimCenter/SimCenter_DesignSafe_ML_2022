@@ -12,17 +12,6 @@ Welcome to the NHERI SimCenter and DesignSafe practicum for machine learning (ML
 **Prerequisites**: Some Python programming knowledge is required. Participants w
 ith no or little Python experience should review the Python quick start material (Chapters 1-6) from `SimCenter Programming Bootcamp 2022 <https://nheri-simcenter.github.io/SimCenterBootcamp2022/source/lecture_videos_part1.html>`_
 
-.. note::
-
-.. note::
-
-   #. The latter half of the workshop will consist of pre-recorded training videos and daily,  live, online, hands-on exercises. Before each live exercise session, participants are required to watch the short instructional videos when available. Participants who do not watch the instructional videos will not be prepared for the live exercises.
-   
-   #. Course material is available through 
-      the `NHERI-SimCenter/SimCenter_DesignSafe_ML_2022 <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022>`_
-      repository on `GitHub <https://github.com>`_
-
-   #. You will be using `Jupyter Notebooks on DesignSafe <https://www.designsafe-ci.org/rw/workspace/#!/Jupyter::Analysis>`_ to perform the exercises.
 
 
 .. toctree::
@@ -34,3 +23,15 @@ ith no or little Python experience should review the Python quick start material
    source/lecture_videos
    source/jupyterNotebooks
    source/git
+
+.. note::
+
+   #. The latter half of the workshop will consist of pre-recorded training videos and daily,  live, online, hands-on exercises. Before each live exercise session, participants are required to watch the short instructional videos when available. Participants who do not watch the instructional videos will not be prepared for the live exercises.
+   
+   #. Course material is available through 
+      the `NHERI-SimCenter/SimCenter_DesignSafe_ML_2022 <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022>`_
+      repository on `GitHub <https://github.com>`_
+
+   #. You will be using `Jupyter Notebooks on DesignSafe <https://www.designsafe-ci.org/rw/workspace/#!/Jupyter::Analysis>`_ to perform the exercises.
+
+   
