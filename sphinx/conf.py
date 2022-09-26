@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = '2021 AI Workshop'
-copyright = '2021, Peter Mackenzie-Helnwein, Frank McKenna'
-author = 'Peter Mackenzie-Helnwein, Frank McKenna'
+copyright = '2022 NHERI-SimCenter'
+author = 'Frank McKenna, Barbaros Cetinar'
 
 rst_prolog = """
 .. |messageBoard| replace:: `Message Board`_

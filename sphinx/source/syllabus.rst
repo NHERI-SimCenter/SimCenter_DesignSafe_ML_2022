@@ -4,7 +4,7 @@ Syllabus
 
 .. raw:: HTML
 
-	<p><font color=red> last updated: September 25, 2022 </font></p>
+<p><font color=red> last updated: September 25, 2022 </font></p>
 
 Welcome to this Training Workshop on the application of ML to natural hazards engineering. This year's offering will be in an online format. 
 A drawback of an online offering is the lack of interaction among the participants, so we encourage you to be active during the live sessions with questions.
