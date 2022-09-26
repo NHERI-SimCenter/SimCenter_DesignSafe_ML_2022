@@ -4,17 +4,20 @@
    contain the root `toctree` directive.
 
 
-Welcome to the NHERI SimCenter & DesignSafe Machine Learning Training for Natural Hazards Engineering 2022
-===========================================================================================================
+Machine Learning Training for Natural Hazards Engineering 2022
+==============================================================
 
-In this training, NHERI SimCenter and DesignSafe will provide a five-day online practicum for machine learning (ML), emphasizing ML's applications to Natural Hazards Engineering, to provide a broad overview of ML techniques and inform on the NHERI capabilities that facilitate ML. The training is aimed toward engineering students and faculty interested in enhancing their research by applying ML to natural hazards engineering problems. Through instruction and exercises, the training will provide fundamentals and reinforce them with hands-on examples so participants gain confidence in utilizing ML in their work. As a basis, the training will introduce opportunities and challenges presented in Earthquake Engineering, cover explainability and deriving physics using AI, and introduce the ML techniques that are used by SimCenter in generating asset inventories for regional hazard simulation. Participants will learn salient ML techniques behind image classification and semantic segmentation, and utilize the SimCenter's BRAILS framework.
+Welcome to the NHERI SimCenter and DesignSafe practicum for machine learning (ML), emphasizing ML's applications to Natural Hazards Engineering. The practicum is aimed toward engineering students and faculty interested in enhancing their research by applying ML to natural hazards engineering problems. Through instruction and exercises, the training will provide you with fundamentals and these fundamentals will be reinforced with hands-on examples so that you gain confidence in utilizing ML in your work. As a basis, the training will introduce opportunities and challenges presented in Earthquake Engineering, cover explainability and deriving physics using AI, and introduce the ML techniques that are used by SimCenter for generating asset inventories that can be used in regional hazard simulation. Participants will learn salient ML techniques behind image classification and semantic segmentation, and utilize the SimCenter's BRAILS framework.
 
-The workshop format consists of pre-recorded training videos and daily,  live, online, hands-on exercises. Before each live exercise session, participants are required to watch the short instructional videos when available. Participants who do not watch the instructional videos will not be prepared for the live exercises.
-
-**Prerequisites**: Some Python programming knowledge is required. Participants with no or little Python experience should review the Python quick start material (Chapters 1-6) from `SimCenter Programming Bootcamp 2022 <https://nheri-simcenter.github.io/SimCenterBootcamp2022/source/lecture_videos_part1.html>`_
+**Prerequisites**: Some Python programming knowledge is required. Participants w
+ith no or little Python experience should review the Python quick start material (Chapters 1-6) from `SimCenter Programming Bootcamp 2022 <https://nheri-simcenter.github.io/SimCenterBootcamp2022/source/lecture_videos_part1.html>`_
 
 .. note::
 
+.. note::
+
+   #. The latter half of the workshop will consist of pre-recorded training videos and daily,  live, online, hands-on exercises. Before each live exercise session, participants are required to watch the short instructional videos when available. Participants who do not watch the instructional videos will not be prepared for the live exercises.
+   
    #. Course material is available through 
       the `NHERI-SimCenter/SimCenter_DesignSafe_ML_2022 <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022>`_
       repository on `GitHub <https://github.com>`_
