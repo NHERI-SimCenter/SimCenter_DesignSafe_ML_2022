@@ -17,11 +17,14 @@ The training is organized as a series of pre-recorded video lectures and live on
 .. warning::
     To run several exercises on Day 5, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
 
-* Day 1 - Day 1: ML in Earthquake Engineering: Opportunities and Challenges (Henry Burton, UCLA)
+Day 1: ML in Earthquake Engineering: Opportunities and Challenges
+~~~~~~~~~~~~~~~~~~~~~~
 
-* Day 2 - Day 2: Explainable AI in Earthquake Engineering (Krishna Kumar, UT Austin)
+Day 2: Explainable AI in Earthquake Engineering
+~~~~~~~~~~~~~~~~~~~~~~
 
-* Day 3: Image Classification (Barbaros Cetiner, UC Berkeley)
+Day 3: Image Classification
+~~~~~~~~~~~~~~~~~~~~~~
 
   * Pre-class content
      * Multi-Layer Perceptron: `Video <https://youtu.be/8PNMJRHAWFk>`_
@@ -39,7 +42,8 @@ The training is organized as a series of pre-recorded video lectures and live on
      * Exercise 1: `Hand-written digit classification with multi-layer perceptron <https://colab.research.google.com/drive/1Y3rgQlhlNIoArdSaa6bp_Tv8TwVQVRFY>`_
      * Exercise 2: `Roof classification with Transformation Learning <https://colab.research.google.com/drive/19ILt9GHVKxZrWrAkbBgIBWKieWMY7YYX>`_
 
-* Day 4: Semantic Segmentation (Barbaros Cetiner, UC Berkeley)
+Day 4: Semantic Segmentation
+~~~~~~~~~~~~~~~~~~~~~~
 
   * Pre-class content
      * An Overview of Image Segmentation Algorithms: `Video <https://youtu.be/igr2S0RIsSc>`_ 
@@ -49,4 +53,5 @@ The training is organized as a series of pre-recorded video lectures and live on
      * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://colab.research.google.com/drive/1_SySjQG-l6Rt6G2xY6G_LNUhpkfxa4E0>`_
      * Exercise 2: Crack Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6>`_
 
-* Day 5: Inventory Generation with BRAILS  (Barbaros Cetiner, UC Berkeley)
+Day 5: Inventory Generation with BRAILS
+~~~~~~~~~~~~~~~~~~~~~~

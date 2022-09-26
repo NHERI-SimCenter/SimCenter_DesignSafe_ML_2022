@@ -9,7 +9,7 @@ The following sets of links can be used to access the exercise files in three di
 2. **Open the exercise file on Google Colab:** The second link will open the notebook on Google Colab platform. If you have a Google account, you can use this service to run the exercises directly from your browser free of charge. This option does not require a separate installation of Jupyter tools. The code will be executed on Google's servers.
 3. **Open the exercise file on Binder:** The final link opens the notebook in Binder. This service is similar to Colab in that it allows users to execute notebooks from their browsers free of charge. The primary difference of this service is it requires absolutely no account registration. This option also provides a more familiar experience for working with notebooks than that of Colab, as the user interface is nearly identical to a local Jupyter server.
 
-To learn more about these tools, visit the :ref:`Tools` page.
+To learn more about these options, visit the :ref:`Tools` page.
 
 
 Day 3: `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
