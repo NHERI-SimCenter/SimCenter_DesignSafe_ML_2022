@@ -61,5 +61,3 @@ Day 5: Inventory Generation with BRAILS
    #. Videos must be watched before the online class sessions for days 3 through 5. On days 3 through 5, we will spend our live sessions mostly doing hands-on exercises ("In-class Exercise" links below), questions, and discussion. These exercises are only effective if you do your self-study assignment of watching the videos before we meet.
 
    #. To run several exercises on Day 5, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
-
-       

@@ -19,7 +19,7 @@
 
 project = '2021 AI Workshop'
 copyright = '2022 NHERI-SimCenter'
-author = 'Frank McKenna, Barbaros Cetinar'
+author = 'Frank McKenna, Barbaros Cetiner'
 
 rst_prolog = """
 .. |messageBoard| replace:: `Message Board`_
