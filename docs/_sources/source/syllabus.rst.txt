@@ -2,29 +2,23 @@
 Syllabus
 ********
 
-.. raw:: HTML
 
-<p><font color=red> last updated: September 25, 2022 </font></p>
+Welcome to this Training Workshop on the application of ML to natural hazards engineering. This year's offering will be in an online format. A drawback of an online offering is the lack of interaction among the participants, so we encourage you to be active during the live sessions with questions.
 
-Welcome to this Training Workshop on the application of ML to natural hazards engineering. This year's offering will be in an online format. 
-A drawback of an online offering is the lack of interaction among the participants, so we encourage you to be active during the live sessions with questions.
+.. note::
 
-The training is organized as a series of pre-recorded video lectures and live online conferencing (Zoom). The lessons and videos are provided in the listing below "by day."   
+   The training for days 3 through 5 is organized as a series of pre-recorded video lectures and live online conferencing (Zoom). The lessons and videos for these days are provided in the expanded syllabus for these days given below.
+       
 
-.. warning::
-	Videos must be watched before the online class sessions for days 3 through 5. On days 3 through 5, we will spend our live sessions mostly doing hands-on exercises ("In-class Exercise" links below), questions, and discussion. These exercises are only effective if you do your self-study assignment of watching the videos before we meet.
-
-.. warning::
-    To run several exercises on Day 5, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
 
 Day 1: ML in Earthquake Engineering: Opportunities and Challenges
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Day 2: Explainable AI in Earthquake Engineering
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Day 3: Image Classification
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   * Pre-class content
      * Multi-Layer Perceptron: `Video <https://youtu.be/8PNMJRHAWFk>`_
@@ -43,7 +37,7 @@ Day 3: Image Classification
      * Exercise 2: `Roof classification with Transformation Learning <https://colab.research.google.com/drive/19ILt9GHVKxZrWrAkbBgIBWKieWMY7YYX>`_
 
 Day 4: Semantic Segmentation
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   * Pre-class content
      * An Overview of Image Segmentation Algorithms: `Video <https://youtu.be/igr2S0RIsSc>`_ 
@@ -54,9 +48,18 @@ Day 4: Semantic Segmentation
      * Exercise 2: Crack Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6>`_
 
 Day 5: Inventory Generation with BRAILS
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   * Pre-class content
      * Coming soon
      
   * In-class Exercises
      * Coming soon
+
+
+.. warning::
+
+   #. Videos must be watched before the online class sessions for days 3 through 5. On days 3 through 5, we will spend our live sessions mostly doing hands-on exercises ("In-class Exercise" links below), questions, and discussion. These exercises are only effective if you do your self-study assignment of watching the videos before we meet.
+
+   #. To run several exercises on Day 5, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
+
+       
