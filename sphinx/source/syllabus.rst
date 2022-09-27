@@ -19,6 +19,12 @@ Day 1: ML in Earthquake Engineering: Opportunities and Challenges
      
 Day 2: Explainable AI in Earthquake Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  * In-class presentations
+     * Can we trust AI?: `Slides <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day2/2022-XAI-Earthquake-Engineering-Workshop.pdf>`_
+  
+  * Demos
+     * XAI for liquefaction: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day2/xai.ipynb>`_
+     * Data: `YN Liquefaction <https://raw.githubusercontent.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/main/notebooks/day2/RF_YN_Model3.csv>`_
 
 Day 3: Image Classification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
