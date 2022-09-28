@@ -27,6 +27,7 @@ Day 2: Explainable AI in Earthquake Engineering
      * Data: `YN Liquefaction <https://raw.githubusercontent.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/main/notebooks/day2/RF_YN_Model3.csv>`_
 
 Day 3: Image Classification
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   * Pre-class content
      * Multi-Layer Perceptron: `Video <https://youtu.be/8PNMJRHAWFk>`_

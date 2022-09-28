@@ -2,6 +2,12 @@
 Video Content
 **************
 
+Day 1:
+     * `Machine Learning in Infrastructure Risk and Resilience Assessment - A Constructive Critique <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day1/MachineLearningInInfrastructureRiskAndResilienceAssessmentBurton.pdf>`_     
+
+Day 2:
+     * `Explainable AI in Earthquake Engineering <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day2/2022-XAI-Earthquake-Engineering-Workshop.pdf>`_
+
 Day 3: `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
 ===========================================
    
