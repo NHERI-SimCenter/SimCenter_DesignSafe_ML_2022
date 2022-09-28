@@ -19,15 +19,14 @@ Day 1: ML in Earthquake Engineering: Opportunities and Challenges
      
 Day 2: Explainable AI in Earthquake Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  * In-class presentations
+  * In-class presentation
      * Can we trust AI?: `Slides <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day2/2022-XAI-Earthquake-Engineering-Workshop.pdf>`_
   
-  * Demos
+  * Demo
      * XAI for liquefaction: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day2/xai.ipynb>`_
      * Data: `YN Liquefaction <https://raw.githubusercontent.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/main/notebooks/day2/RF_YN_Model3.csv>`_
 
 Day 3: Image Classification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   * Pre-class content
      * Multi-Layer Perceptron: `Video <https://youtu.be/8PNMJRHAWFk>`_
@@ -35,16 +34,12 @@ Day 3: Image Classification
      * Attention Networks: `Video <https://youtu.be/W4uqA9rwcKk>`_ 
      * Transformers: `Video <https://youtu.be/XM9R2H_Sw_I>`_ 
 
-  * Demos
-     * Demo 1: `Hand-written digit classification with single-layer perceptron <https://colab.research.google.com/drive/1-MT63AZtztUOQ_Z4cWyVuqppHvqhMs8L>`_
-     * Demo 2: `Hand-written digit classification with convolutional neural networks <https://colab.research.google.com/drive/15LdpfszkkK55yf2jRlecOn9ZR6PbLmUg>`_
-     * Demo 3: `Hand-written digit classification with attention networks <https://colab.research.google.com/drive/1nO8soKThc35CoxCqJx_XFeOk6xVJs9iC>`_
-     * Demo 4: `Hand-written digit classification with transformer <https://colab.research.google.com/drive/1k1tRJexLSwddt3TGttNdWqanT68Oa5mu>`_
-
-  * In-class Exercises
-     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <https://colab.research.google.com/drive/1Y3rgQlhlNIoArdSaa6bp_Tv8TwVQVRFY>`_
-     * Exercise 2: `Roof classification with Transformation Learning <https://colab.research.google.com/drive/19ILt9GHVKxZrWrAkbBgIBWKieWMY7YYX>`_
-
+  * In-class presentation
+     * Image Classification: `Slides <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day3/MLTraining2022_ImageClassification.pdf>`_
+     
+  * Demo
+     * Training a Building Damage Classifier using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day3/BRAILS_TransferLearning.ipynb>`_
+     
 Day 4: Semantic Segmentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
