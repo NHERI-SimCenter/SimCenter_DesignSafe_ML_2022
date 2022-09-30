@@ -38,19 +38,22 @@ Day 4: `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenter_Desi
 .. raw:: html
 	    
    <ol>
-    <li><b> 1. Roof Detection through Semantic Segmentation</b>
-
-    <ul>
-     <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a>
-     </li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/RoofDetection_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a><br/><br/></li>
-     </ul>
-   </li>
 
    <li><b> Crack Segmentation</b>
 
      <ul>
-     <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li>
-     <li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=exercises/day4/CrackSegmentation_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li>
+     <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day4/BRAILS_CrackSegmentation.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day4/BRAILS_CrackSegmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li>
+     <li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=notebooks/day4/BRAILS_CrackSegmentation.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li>
      </ul>
-     </li>
-     </ol>
+   </li>
+
+
+   <li><b> Facade Segmentation</b>
+
+     <ul>
+     <li><a href="https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/tree/master/notebooks/day4/BRAILS_FacadeSegmentation.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day4/BRAILS_FacadeSegmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li>
+     <li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/HEAD?filepath=notebooks/day4/BRAILS_FacadeSegmentation.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li>
+     </ul>
+   </li>
+
+   </ol>
