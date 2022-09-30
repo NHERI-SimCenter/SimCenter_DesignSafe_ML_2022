@@ -48,21 +48,20 @@ Day 4: Semantic Segmentation
      * An Overview of Image Segmentation Algorithms: `Video <https://youtu.be/igr2S0RIsSc>`_ 
      * State of the Art Image Segmentation Algorithms, Segmentation Datasets: `Video <https://youtu.be/veqr3TZfrDg>`_ 
      
-  * In-class Exercises
-     * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://colab.research.google.com/drive/1_SySjQG-l6Rt6G2xY6G_LNUhpkfxa4E0>`_
-     * Exercise 2: Crack Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6>`_
+  * Demos
+     * Training a Binary Crack Segmentation Model using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day4/BRAILS_CrackSegmentation.ipynb>`_
+     * Training a Multi-Class Facade Segmentation Model using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day4/BRAILS_FacadeSegmentation.ipynb>`_
 
 Day 5: Inventory Generation with BRAILS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   * Pre-class content
      * Coming soon
      
-  * In-class Exercises
+  * Demo
      * Coming soon
-
 
 .. warning::
 
-   #. Videos must be watched before the online class sessions for days 3 through 5. On days 3 through 5, we will spend our live sessions mostly doing hands-on exercises ("In-class Exercise" links below), questions, and discussion. These exercises are only effective if you do your self-study assignment of watching the videos before we meet.
+   #. Videos must be watched before the online class sessions for days 3 and 4. On days 3 and 4, we will spend our live sessions mostly doing hands-on demos, questions, and discussion. These demos are only effective if you do your self-study assignment of watching the videos before we meet.
 
-   #. To run several exercises on Day 5, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
+   #. To run the demo on Day 5, you need to get a Google Maps API key before the class. Follow the instructions: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
