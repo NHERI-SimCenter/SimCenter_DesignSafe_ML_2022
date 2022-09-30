@@ -39,7 +39,7 @@ Day 3: Image Classification
      * Image Classification: `Slides <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day3/MLTraining2022_ImageClassification.pdf>`_
      
   * Demo
-     * Training a Building Damage Classifier using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day3/BRAILS_TransferLearning.ipynb>`_
+     * Training a Building Damage Classifier Using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day3/BRAILS_TransferLearning.ipynb>`_
      
 Day 4: Semantic Segmentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,8 +49,8 @@ Day 4: Semantic Segmentation
      * State of the Art Image Segmentation Algorithms, Segmentation Datasets: `Video <https://youtu.be/veqr3TZfrDg>`_ 
      
   * Demos
-     * Training a Binary Crack Segmentation Model using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day4/BRAILS_CrackSegmentation.ipynb>`_
-     * Training a Multi-Class Facade Segmentation Model using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day4/BRAILS_FacadeSegmentation.ipynb>`_
+     * Training a Binary Crack Segmentation Model Using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day4/BRAILS_CrackSegmentation.ipynb>`_
+     * Training a Multi-Class Facade Segmentation Model Using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day4/BRAILS_FacadeSegmentation.ipynb>`_
 
 Day 5: Inventory Generation with BRAILS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,7 +58,7 @@ Day 5: Inventory Generation with BRAILS
      * Coming soon
      
   * Demo
-     * Coming soon
+     * Regional-Level Inventory Generation Using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day5/BRAILS_InventoryGenerator.ipynb>`_
 
 .. warning::
 
