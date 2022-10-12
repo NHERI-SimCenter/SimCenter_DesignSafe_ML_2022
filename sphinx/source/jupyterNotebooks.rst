@@ -59,7 +59,7 @@ Day 4: `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenter_Desi
    </ol>
    
    
-Day 5: Inventory Generation with BRAILS
+Day 5: `Inventory Generation with BRAILS <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day5/MLTraining2022_BRAILS.pdf>`_
 ====================================
 
 .. raw:: html

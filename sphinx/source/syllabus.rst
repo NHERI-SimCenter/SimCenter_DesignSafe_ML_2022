@@ -54,8 +54,8 @@ Day 4: Semantic Segmentation
 
 Day 5: Inventory Generation with BRAILS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  * Pre-class content
-     * Coming soon
+  * In-class content
+     * Introduction to BRAILS' Inventory Generation Capabilities: `Slides <https://github.com/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/presentations/day5/MLTraining2022_BRAILS.pdf>`_
      
   * Demo
      * Regional-Level Inventory Generation Using BRAILS: `Jupyter Notebook <https://colab.research.google.com/github/NHERI-SimCenter/SimCenter_DesignSafe_ML_2022/blob/main/notebooks/day5/BRAILS_InventoryGenerator.ipynb>`_
